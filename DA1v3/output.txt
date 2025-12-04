@@ -1,0 +1,14 @@
+Cỡ ma trận n = 90
+Test 1: 0ms
+Test 2: 0ms
+Test 3: 13.9522ms
+Test 4: 1.3437ms
+Test 5: 0ms
+Test 6: 0ms
+Test 7: 0ms
+Test 8: 11.3256ms
+Test 9: 5.0801ms
+Test 10: 1.0516ms
+Định thức: -3.30878e+138
+Logarit GTTĐ định thức: 318.953
+Thời gian trung bình: 3.2753 ms

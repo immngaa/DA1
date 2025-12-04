@@ -1,0 +1,15 @@
+Cỡ ma trận A (X^T * X): 90x90
+
+Test  1: 4.309400 ms
+Test  2: 4.980700 ms
+Test  3: 4.568300 ms
+Test  4: 3.753100 ms
+Test  5: 2.707800 ms
+Test  6: 8.797700 ms
+Test  7: 5.048700 ms
+Test  8: 5.328400 ms
+Test  9: 4.705400 ms
+Test 10: 5.459500 ms
+
+Giá trị định thức của A (det(X^T * X)): inf
+Thời gian trung bình tính định thức: 4.965900 ms

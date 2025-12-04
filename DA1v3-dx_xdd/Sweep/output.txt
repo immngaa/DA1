@@ -1,0 +1,15 @@
+Cỡ ma trận: 10x10
+
+Test  1: 0.000000 ms
+Test  2: 0.000000 ms
+Test  3: 0.000000 ms
+Test  4: 0.000000 ms
+Test  5: 0.000000 ms
+Test  6: 0.000000 ms
+Test  7: 0.000000 ms
+Test  8: 0.000000 ms
+Test  9: 0.000000 ms
+Test 10: 0.000000 ms
+
+Giá trị định thức: -321817914992.0000610352
+Thời gian trung bình tính định thức: 0.000000 ms

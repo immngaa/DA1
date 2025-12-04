@@ -1,0 +1,5 @@
+Cỡ ma trận: 20 x 20
+Định thức: 499789701869523510732259328.0000000000
+Dấu của định thức: +
+Logarit GTTĐ của định thức: 61.476229645542915
+Tổng thời gian 100 lần chạy: 0.066 s

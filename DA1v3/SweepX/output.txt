@@ -1,0 +1,15 @@
+Cỡ ma trận A (X^T * X): 50x50
+
+Test  1: 1.012400 ms
+Test  2: 0.000000 ms
+Test  3: 0.000000 ms
+Test  4: 0.000000 ms
+Test  5: 0.000000 ms
+Test  6: 0.000000 ms
+Test  7: 0.000000 ms
+Test  8: 0.000000 ms
+Test  9: 0.000000 ms
+Test 10: 0.000000 ms
+
+Giá trị định thức của A (det(X^T * X)): 4300230187844068414829623385862748921840106318495395327150090872557675425930716119040.0000000000
+Thời gian trung bình tính định thức: 0.101240 ms

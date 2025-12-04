@@ -1,0 +1,4 @@
+Cỡ ma trận n = 50
+Định thức: 7.65554e+84
+Logarit GTTĐ định thức: 195.453
+Tổng thời gian 100 lần chạy: 0.049 s
